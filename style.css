@@ -247,7 +247,7 @@ ul li a:hover{
     color: #fff;
 }
 
-.icons ion-icon {
+.icons i {
     color: aqua;
     font-size: 30px;
     padding-left: 14px;
@@ -255,6 +255,6 @@ ul li a:hover{
     transition: 0.3s ease;
 }
 
-.icons ion-icon:hover {
+.icons i:hover {
     color: #ff7200;
 } 
